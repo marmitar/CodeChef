@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "*.mips.asm": "mips",
+        "*.psql": "postgres",
+        "*.txt": "plaintext",
+        "*.ttlx": "turtle",
+        "postBuild": "shellscript",
+        "start": "shellscript",
+        "malloc.h": "c",
+        "stdio.h": "c",
+        "stdbool.h": "c",
+        "cstdbool": "c",
+        "fstream": "c",
+        "string.h": "c",
+        "random.h": "c"
+    }
+}
